@@ -29,7 +29,7 @@ advanced analytics, AI, and machine learning.
   </li>
   <li>
     📝 I regularly write articles on 
-    <a href="https://substack.com/@kevonomics" target="_blank">substack.com/@kevonomics1</a>
+    <a href="https://substack.com/@kevonomics" target="_blank">substack.com/@kevonomics</a>
   </li>
   <li>
     📫 How to reach me: <b>estupinankevin@gmail.com</b>
